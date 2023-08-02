@@ -1,0 +1,25 @@
+body {
+    font-family: 'Courier New', monospace;
+    height: 100vh;
+    background-image: url("./images/bck.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+   
+}
+#title {
+    text-align: center;
+
+}
+
+
+.center {   
+    text-align: center;
+}
+
+.recipe {
+    border-style: outset;
+    border-radius: 16%;
+    border-color: rgb(182, 145, 23);
+    height: 320px;
+}
